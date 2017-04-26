@@ -1,5 +1,5 @@
 # Sharing CekCokQodr
-Dilaksanakan di QODR Pusat[https://goo.gl/maps/MMfXe12rmdJ2] pada 19.50 WIB - 21.30 WIB
+Dilaksanakan di [QODR Pusat](https://goo.gl/maps/MMfXe12rmdJ2) pada 19.50 WIB - 21.30 WIB
 
 Pemateri [@kodeartisan](https://github.com/kodeartisan) a.k.a **Dika Budi Aji**
 
